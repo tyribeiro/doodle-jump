@@ -1,0 +1,22 @@
+.grid {
+  width: 400px;
+  height: 600px;
+  background-image: url("doodle-jump-bg-image.webp");
+  position: relative;
+  font-size: 100px;
+  text-align: center;
+}
+
+.doodler {
+  width: 87px;
+  height: 85px;
+  background-image: url("doodler.png");
+  position: absolute;
+}
+
+.platform {
+  width: 100px;
+  height: 100px;
+  background-image: url("doodle-jump-levels.png");
+  position: absolute;
+}
